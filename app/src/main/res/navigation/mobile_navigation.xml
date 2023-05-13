@@ -32,4 +32,9 @@
         android:name="ru.mirea.timonin.mireaprogect.ui.information.DataFragment"
         android:label="@string/nav_information"
         tools:layout="@layout/fragment_information" />
+    <fragment
+        android:id="@+id/nav_musicPLayer"
+        android:name="ru.mirea.timonin.mireaprogect.ui.musicPlayer.PlayerFragment"
+        android:label="Music"
+        tools:layout="@layout/fragment_player" />
 </navigation>

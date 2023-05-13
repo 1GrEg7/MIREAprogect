@@ -24,5 +24,9 @@
             android:id="@+id/nav_information"
             android:icon="@drawable/ic_information"
             android:title="@string/nav_information" />
+        <item
+            android:id="@+id/nav_musicPLayer"
+            android:icon="@drawable/ic_music"
+            android:title="Player" />
     </group>
 </menu>
